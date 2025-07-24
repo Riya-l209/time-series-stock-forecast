@@ -16,4 +16,4 @@ lstm_img = Image.open("reports/lstm_forecast.png")
 st.image(lstm_img, caption="LSTM Forecast for AAPL", use_column_width=True)
 
 st.markdown("---")
-st.write("Developed by [Your Name] · July 2025")
+st.write("Developed by [Riya Bhardwaj] · July 2025")
