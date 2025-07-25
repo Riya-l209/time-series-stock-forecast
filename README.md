@@ -28,7 +28,7 @@ This project demonstrates hands-on skills in working with real stock market data
 - **Prophet** captured trend + seasonality effectively
 - **LSTM** modeled non-linear and volatile behavior more dynamically
 - Forecast charts are available in the [Streamlit app](https://time-series-stock-forecast-d5nxqfrbgyvxuzenhnaqyb.streamlit.app/)
-
+  
 ---
 
 ## 🗂️ Project Structure
