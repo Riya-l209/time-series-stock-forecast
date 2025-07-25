@@ -2,7 +2,7 @@
 
 > **Project Type**: Data Science | Time Series Forecasting | Deep Learning  
 > **Tools Used**: Python · ARIMA · Prophet · LSTM · TensorFlow · Matplotlib · Streamlit  
-> **Deployed App**: 👉 [Click here to view live demo](https://your-streamlit-app-url.streamlit.app)
+> **Deployed App**: 👉 [Click here to view live demo](https://time-series-stock-forecast-d5nxqfrbgyvxuzenhnaqyb.streamlit.app/)
 
 ---
 
@@ -27,7 +27,7 @@ This project demonstrates hands-on skills in working with real stock market data
 
 - **Prophet** captured trend + seasonality effectively
 - **LSTM** modeled non-linear and volatile behavior more dynamically
-- Forecast charts are available in the [Streamlit app](https://your-streamlit-app-url.streamlit.app)
+- Forecast charts are available in the [Streamlit app](https://time-series-stock-forecast-d5nxqfrbgyvxuzenhnaqyb.streamlit.app/)
 
 ---
 
@@ -46,6 +46,7 @@ time-series-stock-forecast/
 ├── README.md                 # This file
 ```
 📚 Topics Covered
+
 -Time Series Analysis
 -Stock Market Data Processing
 -ARIMA and SARIMA Modeling
@@ -56,6 +57,7 @@ time-series-stock-forecast/
 -Deployment with Streamlit Cloud
 
 ⚙️ Tech Stack
+
 -Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 -Modeling: Statsmodels, Prophet, TensorFlow/Keras
 -Visualization & Deployment: Streamlit, PIL
